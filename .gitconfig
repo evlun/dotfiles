@@ -11,3 +11,6 @@
   pom = push origin master
   ds = diff --staged
   dh = diff HEAD^
+
+[core]
+  excludesfile = /Users/mjor/.gitignore_global
