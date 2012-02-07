@@ -1,0 +1,13 @@
+[user]
+  name = Erik Lundin
+  email = mjor.himself@gmail.com
+
+[color]
+  ui = true
+
+[alias]
+  st = status -sb
+  lg = log --oneline --decorate
+  pom = push origin master
+  ds = diff --staged
+  dh = diff HEAD^
