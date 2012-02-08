@@ -13,4 +13,4 @@
   dh = diff HEAD^
 
 [core]
-  excludesfile = /Users/mjor/.gitignore_global
+  excludesfile = /Users/mjor/.gitignore-global
